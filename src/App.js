@@ -1,23 +1,15 @@
-import logo from './logo.svg';
-import './App.css';
+import { useState } from "react";
+import {dataList} from "./data/dataList"
+import BirthRemind from "./data/components/BirthRemind";
+import BtnField from "./data/components/BtnField";
+import "./App.css";
 
 function App() {
+  const [datas, setDatas] = useState(dataList);
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <BirthRemind datas={datas} setDatas={setDatas} />
+      <BtnField datas={datas} setDatas={setDatas} />
     </div>
   );
 }
