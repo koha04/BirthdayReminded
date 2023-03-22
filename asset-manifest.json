@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Koha04/BirthdayReminded.git/static/css/main.264b558e.css",
-    "main.js": "/Koha04/BirthdayReminded.git/static/js/main.53782aa6.js",
+    "main.js": "/Koha04/BirthdayReminded.git/static/js/main.cbda49dc.js",
     "static/js/787.eb5d45ac.chunk.js": "/Koha04/BirthdayReminded.git/static/js/787.eb5d45ac.chunk.js",
     "index.html": "/Koha04/BirthdayReminded.git/index.html",
     "main.264b558e.css.map": "/Koha04/BirthdayReminded.git/static/css/main.264b558e.css.map",
-    "main.53782aa6.js.map": "/Koha04/BirthdayReminded.git/static/js/main.53782aa6.js.map",
+    "main.cbda49dc.js.map": "/Koha04/BirthdayReminded.git/static/js/main.cbda49dc.js.map",
     "787.eb5d45ac.chunk.js.map": "/Koha04/BirthdayReminded.git/static/js/787.eb5d45ac.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.264b558e.css",
-    "static/js/main.53782aa6.js"
+    "static/js/main.cbda49dc.js"
   ]
 }
