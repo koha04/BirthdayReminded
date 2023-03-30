@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Koha04/BirthdayReminded.git/static/css/main.635c6e02.css",
-    "main.js": "/Koha04/BirthdayReminded.git/static/js/main.cacfe8d8.js",
-    "static/js/787.eb5d45ac.chunk.js": "/Koha04/BirthdayReminded.git/static/js/787.eb5d45ac.chunk.js",
-    "index.html": "/Koha04/BirthdayReminded.git/index.html",
-    "main.635c6e02.css.map": "/Koha04/BirthdayReminded.git/static/css/main.635c6e02.css.map",
-    "main.cacfe8d8.js.map": "/Koha04/BirthdayReminded.git/static/js/main.cacfe8d8.js.map",
-    "787.eb5d45ac.chunk.js.map": "/Koha04/BirthdayReminded.git/static/js/787.eb5d45ac.chunk.js.map"
+    "main.css": "/Koha04/BirthdayReminded/static/css/main.635c6e02.css",
+    "main.js": "/Koha04/BirthdayReminded/static/js/main.0abde2fb.js",
+    "static/js/787.eb5d45ac.chunk.js": "/Koha04/BirthdayReminded/static/js/787.eb5d45ac.chunk.js",
+    "index.html": "/Koha04/BirthdayReminded/index.html",
+    "main.635c6e02.css.map": "/Koha04/BirthdayReminded/static/css/main.635c6e02.css.map",
+    "main.0abde2fb.js.map": "/Koha04/BirthdayReminded/static/js/main.0abde2fb.js.map",
+    "787.eb5d45ac.chunk.js.map": "/Koha04/BirthdayReminded/static/js/787.eb5d45ac.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.635c6e02.css",
-    "static/js/main.cacfe8d8.js"
+    "static/js/main.0abde2fb.js"
   ]
 }
