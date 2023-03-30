@@ -1,6 +1,7 @@
-import React from "react";
+import React, { memo } from "react";
+import PropTypes from "prop-types";
 
-export default function BirthFunc({ image, name, age }) {
+export const BirthFunc = memo(({ image, name, age }) => {
   return (
     <div className="img-text">
       <div className="img">
@@ -12,4 +13,10 @@ export default function BirthFunc({ image, name, age }) {
       </div>
     </div>
   );
-}
+});
+
+BirthFunc.PropTypes = {
+  image: PropTypes.string.isRequired,
+  name: PropTypes.string.isRequired,
+  age: PropTypes.string.isRequired,
+};

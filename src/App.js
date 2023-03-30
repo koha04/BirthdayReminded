@@ -1,7 +1,7 @@
 import { useState } from "react";
-import {dataList} from "./data/dataList"
-import BirthRemind from "./data/components/BirthRemind";
-import BtnField from "./data/components/BtnField";
+import { dataList } from "./data/dataList";
+import { BirthRemind } from "./data/components/BirthRemind";
+import { BtnField } from "./data/components/BtnField";
 import "./App.css";
 
 function App() {

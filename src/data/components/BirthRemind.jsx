@@ -1,7 +1,7 @@
-import BirthFunc from "./BirthFunc";
+import { BirthFunc } from "./BirthFunc";
 import "./BirthRemind.css";
 
-export default function BirthRemind({ datas, setDatas }) {
+export const BirthRemind = ({ datas, setDatas }) => {
   return (
     <div className="wrapper">
       <h1>{datas.people.length} birthdays today</h1>
@@ -27,4 +27,4 @@ export default function BirthRemind({ datas, setDatas }) {
       </div>
     </div>
   );
-}
+};

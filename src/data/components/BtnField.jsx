@@ -1,6 +1,6 @@
 import React from "react";
 
-export default function BtnField({ datas, setDatas }) {
+export const BtnField = ({ datas, setDatas }) => {
   const disabledStyle =
     datas.people.length === 0
       ? { opacity: 0.5, pointerEvents: "none" }
@@ -44,4 +44,4 @@ export default function BtnField({ datas, setDatas }) {
       </button>
     </div>
   );
-}
+};
