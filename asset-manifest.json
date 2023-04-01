@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Koha04/BirthdayReminded/static/css/main.635c6e02.css",
-    "main.js": "/Koha04/BirthdayReminded/static/js/main.0abde2fb.js",
-    "static/js/787.eb5d45ac.chunk.js": "/Koha04/BirthdayReminded/static/js/787.eb5d45ac.chunk.js",
-    "index.html": "/Koha04/BirthdayReminded/index.html",
-    "main.635c6e02.css.map": "/Koha04/BirthdayReminded/static/css/main.635c6e02.css.map",
-    "main.0abde2fb.js.map": "/Koha04/BirthdayReminded/static/js/main.0abde2fb.js.map",
-    "787.eb5d45ac.chunk.js.map": "/Koha04/BirthdayReminded/static/js/787.eb5d45ac.chunk.js.map"
+    "main.css": "/BirthdayReminded/static/css/main.635c6e02.css",
+    "main.js": "/BirthdayReminded/static/js/main.9d8b0e11.js",
+    "static/js/787.eb5d45ac.chunk.js": "/BirthdayReminded/static/js/787.eb5d45ac.chunk.js",
+    "index.html": "/BirthdayReminded/index.html",
+    "main.635c6e02.css.map": "/BirthdayReminded/static/css/main.635c6e02.css.map",
+    "main.9d8b0e11.js.map": "/BirthdayReminded/static/js/main.9d8b0e11.js.map",
+    "787.eb5d45ac.chunk.js.map": "/BirthdayReminded/static/js/787.eb5d45ac.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.635c6e02.css",
-    "static/js/main.0abde2fb.js"
+    "static/js/main.9d8b0e11.js"
   ]
 }
